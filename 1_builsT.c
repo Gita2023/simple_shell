@@ -95,4 +95,3 @@ int changeDirectory(info_t *info)
 		_puts(*arg_array); /* temp att_unused workaround */
 	return (0);
 }
-
